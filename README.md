@@ -1,7 +1,5 @@
 ---
-### Hi there 👋
-
-![SHIVASHISH YADAV]<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![Twitter Follow](https://img.shields.io/twitter/follow/shivashishyadav?style=social)
 
 ---
