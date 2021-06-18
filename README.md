@@ -1,7 +1,8 @@
 ---
 ### Hi there 👋
 
-![SHIVASHISH YADAV](https://user-images.githubusercontent.com/24804763/95804760-39d0d000-0d21-11eb-8c65-066e82e5e388.png)
+![SHIVASHISH YADAV]<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![Twitter Follow](https://img.shields.io/twitter/follow/shivashishyadav?style=social)
 
 ---
 #### SMALL BIO 📝:
