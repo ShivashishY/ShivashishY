@@ -1,11 +1,11 @@
 ---
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Shivashish Yadav!
 ![Twitter Follow](https://img.shields.io/twitter/follow/shivashishyadav?style=social)
 
 ---
 #### SMALL BIO 📝:
 
-- Hello! I’m Shivashish Yadav a fresh Post Graduate in MCA & self-taught developer with over 2 years experience. Now I’m based in Mumbai, India, working for freelance, jobseeker and learning about programming on Youtube, Stackoverflow, Github and Codepen.io. [MY PORTFOLIO](https://shivashishy.github.io/)
+- Hello! I’m Shivashish Yadav a fresh Post Graduate in MCA & self-taught developer with over 2 years experience. Now I’m based in Mumbai, India, working for freelance, jobseeker and learning about programming on Youtube, Stackoverflow, Github and Codepen.io. [MY PORTFOLIO](https://shivas.gtsb.io/)
 - I started coding sometime around 2011, which is when I started studying Computer Science in the Punjab Technical University. After getting my BSc-IT, I studied MCA from University of Mumbai. I've worked with various technologies including Networking and Database in the past. 
 - but recently I've taken an interest in python, algos and in web applications and learning new things and technologies.
 
