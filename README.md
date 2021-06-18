@@ -45,7 +45,9 @@
 
 ---
 #### LANGUAGES AND TOOLS 🔨
+
 <table>
+<p>
 	<tr>
 		<tr>
 			<td>Programming Languages</td>
@@ -154,6 +156,7 @@
 			</td>
 		</tr>
 	</tr>
+</p>
 </table>
 
 ---
