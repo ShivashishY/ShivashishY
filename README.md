@@ -1,7 +1,6 @@
----
 <h1 align="center">Hello 👋, I'm Shivashish Yadav </h1> 
   
-<h3 align="center">A passionate Technical Content Specialist | SME | Web Dev | Cryptocurrency & Blockchain Expert | Exploring Cyber Security from India</h3>
+<h3 align="center">A Passionate Technical Content Specialist | SME | Web Dev | Cryptocurrency & Blockchain Expert | Exploring Cyber Security From India</h3>
 
 ---
 #### CONNECT ME ON 💡:
