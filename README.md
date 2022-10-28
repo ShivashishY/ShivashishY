@@ -1,15 +1,7 @@
 ---
-![Hnet-image.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1642965201692/VokJ8Vg3Q.gif)
-
-<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Shivashish Yadav! </h1>
-
----
-#### SMALL BIO 📝:
-
-- Hello! I’m Shivashish Yadav a fresh Post Graduate in MCA & self-taught developer with over 2 years experience. Now I’m based in Mumbai, India, working for freelance, jobseeker and learning about programming on Youtube, Stackoverflow, Github and Codepen.io. [MY PORTFOLIO](https://shivas.gtsb.io/)
-- I started coding sometime around 2011, which is when I started studying Computer Science in the Punjab Technical University. After getting my BSc-IT, I studied MCA from University of Mumbai. I've worked with various technologies including Networking and Database in the past. 
-- But recently I've taken an interest in python, algos and in web applications and learning new things and technologies.
-- 💼 I'm looking for my first Web Developer position. If you liked my profile, do think about recommending me to any job openings. Tech Stack is as mentioned in the toolbox below.
+<h1 align="center">Hello 👋, I'm Shivashish Yadav </h1> 
+  
+<h3 align="center">A passionate Technical Content Specialist | SME | Web Dev | Cryptocurrency & Blockchain Expert | Exploring Cyber Security from India</h3>
 
 ---
 #### CONNECT ME ON 💡:
