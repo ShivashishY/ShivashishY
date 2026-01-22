@@ -6,8 +6,8 @@
 #### CONNECT ME ON 💡:
 
 <p align="center">
-<a href="https://shivas.gtsb.io/">
-		<img src="https://img.shields.io/badge/-shivas.gtsb.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/>
+<a href="https://shivaworks.xyz/">
+		<img src="https://img.shields.io/badge/Portfolio-https%3A%2F%2Fshivaworks.xyz%2F-3410cc?style=flat&labelColor=154ce0&logo=googlechrome"/>
   <a href="https://github.com/shivashishy">
     <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/shivashishy" alt="GitHub badge" />
   </a>
