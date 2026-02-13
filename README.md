@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shivashish%20Yadav&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Lead%20AI%20DevRel%20|%20Content%20|%20Marketing%20|%20Community%20Growth&descSize=18&descAlignY=55)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shivashish%20Yadav&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Lead%20AI%20DevRel%20|%20Content%20|%20Marketing%20|%20Community%20Growth&descSize=18&descAlignY=55)
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2D59FDFF&center=true&vCenter=true&random=false&width=600&lines=6%2B+Years+in+Technical+Content+%26+DevRel;600%2B+Articles+Published;14M%2B+Search+Impressions+Generated;250K%2B+Community+Members+Managed;Building+Communities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
