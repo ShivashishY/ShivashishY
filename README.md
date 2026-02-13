@@ -1,28 +1,22 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shivashish%20Yadav&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Lead%20AI%20DevRel%20|%20Content%20|%20Marketing%20|%20Community%20Growth&descSize=18&descAlignY=55)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shivashish%20Yadav&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Lead%20AI%20DevRel%20|%20Content%20|%20Marketing%20|%20Community%20Growth&descSize=18&descAlignY=55)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=6%2B+Years+in+Technical+Content+%26+DevRel;600%2B+Articles+Published;14M%2B+Search+Impressions+Generated;250K%2B+Community+Members+Managed;Building+Communities+%F0%9F%9A%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2D59FDFF&center=true&vCenter=true&random=false&width=600&lines=6%2B+Years+in+Technical+Content+%26+DevRel;600%2B+Articles+Published;14M%2B+Search+Impressions+Generated;250K%2B+Community+Members+Managed;Building+Communities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
-
-<p align="center">
-  <a href="https://shivaworks.xyz/"><img src="https://img.shields.io/badge/Portfolio-shivaworks.xyz-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://github.com/shivashishy"><img src="https://img.shields.io/badge/GitHub-ShivashishY-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shivashishyadav/"><img src="https://img.shields.io/badge/LinkedIn-shivashishyadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/0xAgent47"><img src="https://img.shields.io/badge/X-@0xAgent47-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <a href="mailto:shivashishmca@gmail.com"><img src="https://img.shields.io/badge/Email-shivashishmca@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/shivashish"><img src="https://img.shields.io/badge/Telegram-@shivashish-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://medium.com/@shivashish.ydv"><img src="https://img.shields.io/badge/Medium-@shivashish.ydv-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://dev.to/shivashish"><img src="https://img.shields.io/badge/DEV.to-shivashish-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-</p>
-
+  <div align="center">
+  <a href="https://shivaworks.xyz/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://github.com/shivashishy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shivashishyadav/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/0xAgent47"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="mailto:shivashishmca@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/shivashish"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://medium.com/@shivashish.ydv"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://dev.to/shivashish"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+</div>
 <br/>
 
----
 
 ## 👨‍💻 About Me
 
@@ -34,7 +28,6 @@ Currently at **Spheron Network**, I lead DevRel, technical content, community ma
 
 <br/>
 
----
 
 ## 🏆 Key Achievements & Impact
 
@@ -57,7 +50,6 @@ Currently at **Spheron Network**, I lead DevRel, technical content, community ma
 
 <br/>
 
----
 
 ## 💼 Professional Experience
 
@@ -130,9 +122,10 @@ Currently at **Spheron Network**, I lead DevRel, technical content, community ma
 
 <br/>
 
----
 
 ## 🎓 Education
+
+<div align="center">
 
 | Degree | Institution | Duration |
 |--------|-------------|----------|
@@ -140,9 +133,8 @@ Currently at **Spheron Network**, I lead DevRel, technical content, community ma
 | **Bachelor of Science in IT (BSc-IT)** | Punjab Technical University | 2011 - 2015 |
 | **Diploma in Hardware & Networking** | Nice College | 2012 - 2013 |
 
+</div>
 <br/>
-
----
 
 ## 📚 Published Work
 
@@ -160,76 +152,25 @@ Currently at **Spheron Network**, I lead DevRel, technical content, community ma
 
 <br/>
 
----
-
-#### 🛠️ LANGUAGES AND TOOLS
+## 🛠️ Languages & Tools
 
 <div align="center">
 
-### Programming & Development
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend & Frameworks
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![GatsbyJS](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-
-### Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Design & Creative Tools
-
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Camtasia](https://img.shields.io/badge/Camtasia-6B9900?style=for-the-badge&logo=camtasia&logoColor=white)
-
-### Writing & Documentation Tools
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![GitBook](https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white)
-![Grammarly](https://img.shields.io/badge/Grammarly-15C39A?style=for-the-badge&logo=grammarly&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-### Productivity & Packages
-
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
-![Zoho](https://img.shields.io/badge/Zoho-C8202B?style=for-the-badge&logo=zoho&logoColor=white)
+| Category | Technologies |
+|:--------:|:------------:|
+| **Programming** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TS-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next-000?style=flat-square&logo=nextdotjs&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Design** | ![Photoshop](https://img.shields.io/badge/PS-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/AI-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
+| **Writing Tools** | ![WordPress](https://img.shields.io/badge/WP-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Markdown](https://img.shields.io/badge/MD-000?style=flat-square&logo=markdown&logoColor=white) ![GitBook](https://img.shields.io/badge/GitBook-3884FF?style=flat-square&logo=gitbook&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000?style=flat-square&logo=notion&logoColor=white) |
+| **Productivity** | ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) ![Microsoft](https://img.shields.io/badge/MS_365-D83B01?style=flat-square&logo=microsoft&logoColor=white) ![Zoho](https://img.shields.io/badge/Zoho-C8202B?style=flat-square&logo=zoho&logoColor=white) |
 
 </div>
 
 <br/>
 
----
 
 ## 🔥 GitHub Stats & Activity
 
@@ -239,26 +180,6 @@ Currently at **Spheron Network**, I lead DevRel, technical content, community ma
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivashishy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivashishy&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=8"/>
-</div>
-
-<br/>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShivashishY&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&row=1"/>
-</div>
-
-<br/>
-
----
 
 ## 📊 Contribution Graph
 
